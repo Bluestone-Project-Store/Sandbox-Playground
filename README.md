@@ -1,2 +1,5 @@
-# Sandbox-Playground
-Playground for Experiments
+## Playground for Experiments
+
+This project is for learning and experimentation.
+
+*DO NOT PUBLISH*
